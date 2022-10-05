@@ -13,4 +13,14 @@ The stock performance between 2017 and 2018 mostly differ by their percent of re
 
 <img width="1680" alt="Screen Shot 2022-10-04 at 10 39 46 PM" src="https://user-images.githubusercontent.com/113744353/193970332-39ffde7d-97fe-4321-acff-7acf8a64a1c5.png">
 
+The execution times of the refactored script seems to be the same for both the years 2017 and 2018.
+<img width="1680" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/113744353/193970669-f516333d-98d7-471d-bfcc-a26b48ed62dc.png">
+
+<img width="1680" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/113744353/193970683-712da4f0-763d-4303-9e02-984d8d3aac85.png">
+
+The execution times of the original script show that 2017 ran faster than 2018.
+<img width="1680" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/113744353/193971584-6ad2b98b-3bba-4038-b6f7-e3c761cf01f4.png">
+<img width="1680" alt="VBA_Challenge_2018 10 41 36 PM" src="https://user-images.githubusercontent.com/113744353/193971614-2b1fefc1-8ab4-40f6-9aa4-8262d3c64f63.png">
+
 ### Analysis with Code 
+
