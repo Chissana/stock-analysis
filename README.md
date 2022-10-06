@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### Purpose
+## Purpose
 Analyzing and refactoring stock data using VBA so we loop through the data one time and collect all the information. We will also display the time it takes our code to process the given information. 
 
 ## Results
@@ -63,7 +63,7 @@ After I refactored the code certain variables were added. Specifically tickerInd
         
     Next i
     
-   ### Purpose 
+   ## Summary
     
    #### What are the advantages or disadvantages of refactoring code?   
 The advantages of refactoring code is that it can save time. For example, If you need to create a program similar to one you already created you can just go back and refactor old code instead of having to start from the beginning. The disadvantages of refactoring code is that it can introduce new bugs and errors to your code.
